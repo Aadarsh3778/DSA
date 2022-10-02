@@ -45,6 +45,7 @@ evaluation()
 
 
 """
+# the class created for test cases (from another file (TestCase_oops.py)
 from TestCase_oops import TestCase
 
 a = TestCase()
